@@ -18,7 +18,7 @@ require (
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056
 	github.com/mholt/archiver/v4 v4.0.0-alpha.8
 	github.com/olahol/melody v1.1.4
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/samber/lo v1.38.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
@@ -27,7 +27,7 @@ require (
 	github.com/tidwall/gjson v1.17.1
 	golang.org/x/exp v0.0.0-20240103183307-be819d1f06fc
 	golang.org/x/sync v0.6.0
-	golang.org/x/term v0.16.0
+	golang.org/x/term v0.18.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -76,8 +76,8 @@ require (
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
 	golang.org/x/mod v0.15.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 	gotest.tools/v3 v3.5.1 // indirect
